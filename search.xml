@@ -8,8 +8,14 @@
       <link href="/2026/02/06/first/"/>
       <url>/2026/02/06/first/</url>
       
-        <content type="html"><![CDATA[<p>Hello World!<br>这是第一篇</p><p>到此一游</p>]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="密码错误，请重试" data-whm="内容认证失败，请再次尝试">  <script id="hbeData" type="hbeData" data-hmacdigest="51633989b6f3144b4826a0cf683ee9e3d381a04d8ae5984b9c5fd6cb193d4710">cc3b4c731d0b315bdb9fb663377e6c70359fb0e51b135bee242d0f0c0abc4c8746b911d6c471e7c1ac98172b148c293d04b98edea929b3d524f672db93e7229a53c2e5f3f7010494c8d9bb94c4aa84587bc3d1a4db3462be1ce6a234949dcca5</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
+      
+      <categories>
+          
+          <category> test </category>
+          
+      </categories>
       
       
         <tags>

@@ -1084,7 +1084,7 @@ details[open] summary {
   border: 1px solid #e9e9e9;
   margin: 0 1.5% 15px 1.5%;
   text-decoration: none;
-  color: #1f1235;
+  color: #fba414;
 }
 .links-item:hover {
   box-shadow: 1px 1px 1px rgba(0,0,0,0.125);
@@ -1377,7 +1377,7 @@ html *::-webkit-scrollbar-track {
   }
 }
 body {
-  background: url("/img/背景.jpg");
+  background: url("/img/yu.png");
   background-position: center;
   background-size: cover;
   background-attachment: scroll;
